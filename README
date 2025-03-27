@@ -16,16 +16,16 @@ This is a simple web application that displays a number of quiz questions and al
 - [Questions](#questions)  
   
 ## Installation  
- - `git clone the repository`  
- - `cd into the cloned repository`  
+ - `git clone https://github.com/Toshiebop18/quiz.git`  
+ - `cd into the quiz`  
  - `npm install`  
 ## Usage  
 
   This program is open source and can used or adapted any way  
-  `npm start`  
+  `npm run start:dev`  
 
 ## Execution  
-[![Watch the video](https://raw.githubusercontent.com/Toshiebop18/Book-search/main/videos/thumbnail.jpg)](https://raw.githubusercontent.com/Toshiebop18/Book-search/main/videos/video.mp4)
+[![Watch the video](https://raw.githubusercontent.com/Toshiebop18/quiz/main/videos/thumbnail.jpg)](https://raw.githubusercontent.com/Toshiebop18/quiz/main/videos/video.mp4)
 
 ## License  
 
@@ -34,7 +34,7 @@ This software uses The MIT License
  - Fork the project  
  - create a pull request  
 ## Tests  
- - No tests included at this time  
+ - `npm run test`
 ## Questions  
 Have any questions?  
 Email: toshibear18@gmail.com 
