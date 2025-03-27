@@ -25,7 +25,7 @@ This is a simple web application that displays a number of quiz questions and al
   `npm run start:dev`  
 
 ## Execution  
-[![Watch the video](https://raw.githubusercontent.com/Toshiebop18/quiz/main/videos/thumbnail.jpg)](https://raw.githubusercontent.com/Toshiebop18/quiz/main/videos/video.mp4)
+[![Watch the video](https://raw.githubusercontent.com/Toshiebop18/quiz/main/videos/thumbnail.jpg)](https://raw.githubusercontent.com/Toshiebop18/quiz/main/videos/exec_video.mp4)
 
 ## License  
 
